@@ -1,8 +1,8 @@
-import React from 'react'
+//import React from 'react'
 import { useNavigate } from 'react-router-dom'
 
 const Register = () => {
-    let navigate = useNavigate(ko)
+    let navigate = useNavigate()
     const handleRegister = ()=>{
         // console.log("working")
 
